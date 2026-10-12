@@ -10,9 +10,9 @@ Debido a que este grupo de reglas son para los equipos de clase se especifica qu
 
 ![Reglas de entrada](Media/ReglasEntrada.png)
 
----
+
 Debido a que nuestra IP puede cambiar es posible que debamos actualizar esto en el futuro
----
+
 
 ## Claves para la conexión remota
 
@@ -28,7 +28,7 @@ Desde ahí es tan fácil como asignar una IP elástica y nuestra maquina pasara 
 ![Captura de la IP elastica](Media/IPElastica.png)
 
 Esto gasta muchos créditos de AWS Por lo que para el resto de las practicas lo deshabilitaremos para ahorrar créditos. Para un entorno de producción si seria necesario usar IP elástica.
----
+
 
 ## Instalación pila LAMP
 
@@ -50,7 +50,7 @@ Podemos ver que no ha dado ningún error, la pagina debería ser visible con nue
 ![webapache](Media/WebApache2.png)
 
 En las siguientes capturas la IP sera una diferente ya que la IP elástica estará deshabilitada para ahorrar creditos.
----
+
 
 ### MySQL
 
@@ -59,7 +59,7 @@ Instalación sin errores de **MySQL**
 ![Capturamysql](Media/Mysql.png)
 
 No hemos creado ningún usuario root ni especificado contraseña por lo que esto tendremos que hacerlo mas adelante.
----
+
 
 ### Php
 
@@ -103,7 +103,7 @@ Instalación
 
 ![goaccess1](Media/goaccess.png)
 
----
+
 
 Gracias
 ---
