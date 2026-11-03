@@ -36,7 +36,7 @@ Indicamos la configuracion de la DB
 ![CapturaWordpress](Media/E4.png)
 
 | Parametro | Valor | funcion |
-|---|---|
+|---|---|---|
 | `DB_NAME` | WordPressDB | Nombre de la base de datos |
 | `DB_USER` | WordPress_usr | Usuario de la base de datos |
 | `DB_HOST` | localhost | Ubicacion de la base de datos |
