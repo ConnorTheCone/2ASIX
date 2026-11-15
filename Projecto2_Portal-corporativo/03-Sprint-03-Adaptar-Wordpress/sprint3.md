@@ -44,7 +44,7 @@ Contenido del directorio porconstech-child
 
 
 
-!\[E4](Media/E4.png)
+![E4](Media/E4.png)
 
 
 
